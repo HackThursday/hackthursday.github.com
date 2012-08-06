@@ -19,7 +19,7 @@ tags: ["computer graphics", "frontend"]
 
 ## Slides da apresentação
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/13864921" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/lucas_ot/slides-13864921" title="CW-26 Computação Gráfica" target="_blank">CW-26 Computação Gráfica</a> </strong> from <strong><a href="http://www.slideshare.net/lucas_ot" target="_blank">lucas_ot</a></strong> </div>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/13864921" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="allowfullscreen"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/lucas_ot/slides-13864921" title="CW-26 Computação Gráfica" target="_blank">CW-26 Computação Gráfica</a> </strong> from <strong><a href="http://www.slideshare.net/lucas_ot" target="_blank">lucas_ot</a></strong> </div>
 
 ## UPDATE
 
