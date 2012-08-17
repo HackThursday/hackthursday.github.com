@@ -17,7 +17,7 @@ tags: ["pathfinding", "astar"]
 
 ## Slides da apresentação
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/14001248" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/lucas_ot/pathfinding" title="Pathfinding" target="_blank">Pathfinding</a> </strong> from <strong><a href="http://www.slideshare.net/lucas_ot" target="_blank">lucas_ot</a></strong> </div>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/14001248" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="true"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/lucas_ot/pathfinding" title="Pathfinding" target="_blank">Pathfinding</a> </strong> from <strong><a href="http://www.slideshare.net/lucas_ot" target="_blank">lucas_ot</a></strong> </div>
 
 ## Presença
 
