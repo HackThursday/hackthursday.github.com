@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Jekyll is the future, the future is now"
+title: "CW30: Jekyll"
 description: ""
-category: "tests" 
+category: "jekyll" 
 tags: []
 ---
 {% include JB/setup %}
 
-###Croassonho is thefuture also
+Evento CW30, contou com uma dicussão sobreo <a href="http://jekyllbootstrap.com/">jekyll</a>, de como usar o mesmo para montar seu blog.
 
-Este eh um postche de testche
+jekyll
