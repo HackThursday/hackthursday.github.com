@@ -9,7 +9,7 @@ tags: ["ruby"]
 
 ### Semana 31
 
-<p>Nesta semana Felipe Giusti introduziu para os presentes a linguagem de programação Ruby.</p>
+<p>Nesta semana Filipe Giusti introduziu para os presentes a linguagem de programação Ruby.</p>
 
 ## Slides da apresentação
 
