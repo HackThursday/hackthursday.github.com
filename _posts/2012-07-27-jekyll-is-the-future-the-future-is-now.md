@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CW30: Jekyll"
+title: "CW 30: Jekyll"
 description: ""
 category: "jekyll" 
 tags: []

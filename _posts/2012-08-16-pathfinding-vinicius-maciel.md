@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pathfinding"
+title: "CW 33: Pathfinding"
 description: ""
 category: "evento" 
 tags: ["pathfinding", "astar"]
