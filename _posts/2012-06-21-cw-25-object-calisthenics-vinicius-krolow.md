@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CW 25: Object Calisthenics"
+title: "CW 25: Object Calisthenics com Vinícius Krolow"
 description: ""
 category: "evento"
 tags: [oop, exercicio]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CW 31: Ruby"
+title: "CW 31: Ruby com Filipe Giusti"
 description: ""
 category: "evento" 
 tags: ["ruby"]

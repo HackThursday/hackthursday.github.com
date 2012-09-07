@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CW 26 - A computação gráfica. Lucas Teixeira"
+title: "CW 26: A computação gráfica com Lucas Teixeira"
 description: ""
 category: "evento" 
 tags: ["computer graphics", "frontend"]

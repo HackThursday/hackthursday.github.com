@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CW 33: Pathfinding"
+title: "CW 33: Pathfinding com Vinicius Maciel"
 description: ""
 category: "evento" 
 tags: ["pathfinding", "astar"]
@@ -10,7 +10,7 @@ tags: ["pathfinding", "astar"]
 ### Semana 33
 
 <p>Nesta semana o assunto abordado no evento Hack Thursday foi o pathfinding, incluindo os algoritmos A* e de Dijkstra.</p>
-<p>Vinicius Maciel conduziu o evento, apresentando/discutindo com o grupo sobre o assunto abordado.</p>
+<p>Vinicius Maciel conduziu o evento, apresentando/discutindo com o grupo.</p>
 
 <h3>Detalhes do Evento</h3>
 <p>O evento está de casa nova, agora no <a href='https://www.facebook.com/coletivo.munaya'>Coletivo Munaya</a>, localizado na Rua Tiradentes, 2332. Entre Sta. Cruz e Gonçalves Chaves.</p>

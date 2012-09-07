@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CW 34: Bus1me"
+title: "CW 34: Bus1.me com Rafael Silva"
 description: ""
 category: "evento" 
 tags: ["bus1me", "android", "gps", "maps", "nyquist"]
