@@ -3,7 +3,7 @@ layout: post
 title: "CW 40: Facebook API com William Dias e Geison Quevedo"
 description: ""
 category: "evento" 
-tags: ["facebook", "graph"]
+tags: ["facebook", "graph", "fql"]
 ---
 {% include JB/setup %}
 
@@ -13,7 +13,7 @@ tags: ["facebook", "graph"]
 <p>A abordagem se deu em dois diferentes pontos de vista:</p>
 <li>William Dias foi responsável pelo frontend (Javascript)</li>
 <li>Geison Quevedo pela API do backend (PHP)</li>
-<p>No mais, foram discutidos as Fan Pages, as Apps, medidas de segurança, etc.</p>
+<p>No mais, foram discutidos as fan pages, as apps, medidas de segurança, facebook query language, etc.</p>
 
 <h3>Detalhes do Evento</h3>
 <p>O evento ocorreu no <a href='https://www.facebook.com/coletivo.munaya'>Coletivo Munaya</a>, localizado na Rua Tiradentes, 2332. Entre Sta. Cruz e Gonçalves Chaves.</p>
