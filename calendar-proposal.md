@@ -22,7 +22,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 23/05 - Available
 ### 30/05 - Available
 ### 06/06 - Available
-### 13/06 - Available
+### 13/06 - Renan Rangel - a escolher
 ### 20/06 - Available
 ### 27/06 - Available
 
