@@ -10,7 +10,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 
 ## HackThursday Season 2 - 21/03 ~ 27/06
 
-### 21/03 - Vinícius Krolow, Lucas Teixaiera - Design Patterns
+### 21/03 - Vinícius Krolow, Lucas Teixeira - Design Patterns
 ### 28/03 - Moacir Rosa - Git, Forget SVN
 ### 04/04 - Gabriel Neutzling, Lucas Oliveira - Responsive Design
 ### 11/04 - Available
