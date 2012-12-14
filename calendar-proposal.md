@@ -19,7 +19,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 02/05 - Moacir Rosa - Git, Workflow
 ### 09/05 - Available
 ### 16/05 - Available
-### 23/05 - Available
+### 23/05 - Vinícius Krolow - Vagrant
 ### 30/05 - Available
 ### 06/06 - Available
 ### 13/06 - Renan Rangel - a escolher
