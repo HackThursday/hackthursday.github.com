@@ -13,7 +13,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 21/03 - Vinícius Krolow, Lucas Teixeira - Design Patterns
 ### 28/03 - Moacir Rosa - Git, Forget SVN
 ### 04/04 - Gabriel Neutzling, Luã Oliveira - Responsive Design
-### 11/04 - Guilherme Quental - CoffeeScript and TDD/BDD
+### 11/04 - Guilherme Quental - CoffeeScript
 ### 18/04 - Available
 ### 25/04 - Available
 ### 02/05 - Moacir Rosa - Git, Workflow
@@ -21,7 +21,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 16/05 - Available
 ### 23/05 - Vinícius Krolow - Vagrant
 ### 30/05 - Available
-### 06/06 - Available
+### 06/06 - Guilherme Quental - TDD/BDD JS
 ### 13/06 - Renan Rangel - a escolher
 ### 20/06 - Available
 ### 27/06 - Available
