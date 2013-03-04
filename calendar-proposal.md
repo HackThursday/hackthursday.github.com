@@ -15,7 +15,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 04/04 - Gabriel Neutzling, Luã Oliveira - Responsive Design
 ### 11/04 - Guilherme Quental - CoffeeScript
 ### 18/04 - Available
-### 25/04 - Available
+### 25/04 - Matheus Prestes - Empreendedorismo
 ### 02/05 - Moacir Rosa - Git, Workflow
 ### 09/05 - Available
 ### 16/05 - Available
