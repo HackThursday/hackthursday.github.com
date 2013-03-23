@@ -23,7 +23,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 30/05 - Available
 ### 06/06 - Guilherme Quental - TDD/BDD JS
 ### 13/06 - Renan Rangel - a escolher
-### 20/06 - Available
+### 20/06 - Lucas Teixeira - MessagePack
 ### 27/06 - Available
 
 
