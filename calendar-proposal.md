@@ -14,7 +14,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 28/03 - Holiday
 ### 04/04 - [Andressa Costa](http://github.com/andressacosta) (Conrad Caine) - (undefined)
 ### 11/04 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - CoffeeScript
-### 18/04 - [Vinícius Krolow](http://github.com/krolow) (CakeDC), Lucas Teixeira (Conrad Caine) - Design Patterns
+### 18/04 - [Vinícius Krolow](http://github.com/krolow) (CakeDC), [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - Design Patterns
 ### 25/04 - Matheus Prestes (W8S) - Empreendedorismo
 ### 02/05 - [Moacir Rosa](http://github.com/moacirosa)  (Conrad Caine) - Git, Forget SVN
 ### 09/05 - [Gabriel Neutzling](https://github.com/gneutzling) (Conrad Caine), Luã Oliveira (Conrad Caine) - Responsive Design
