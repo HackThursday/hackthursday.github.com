@@ -29,7 +29,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 
 ## HackThursday Season 2 - 22/08 ~ 28/11
 
-### 22/08 - Available
+### 22/08 - Moacir Rosa - Git, Workflow
 ### 29/08 - Available
 ### 05/09 - Available
 ### 12/09 - Available
