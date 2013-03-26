@@ -23,7 +23,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 30/05 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
 ### 06/06 - [Davi Reinke](http://github.com/dreinke) (Conrad Caine) - Graphs
 ### 13/06 - [Renan Rangel](http://github.com/rvrangel) (Conrad Caine) - a escolher
-### 20/06 - Available
+### 20/06 - [Rafael Silva](http://github.com/rssilva) (Grupo RBS) - a escolher
 ### 27/06 - Augusto Mecking Caringi (UFPel) - Chromium browser internals
 
 
