@@ -18,7 +18,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 25/04 - Matheus Prestes - Empreendedorismo
 ### 02/05 - Moacir Rosa - Git, Forget SVN
 ### 09/05 - Gabriel Neutzling, Luã Oliveira - Responsive Design
-### 16/05 - Davi Reinki - Graphos
+### 16/05 - Davi Reinke - Graphs
 ### 23/05 - Gustavo Graña - (undefined)
 ### 30/05 - Pedro F Steimbruch - a escolher
 ### 06/06 - Guilherme Quental - TDD/BDD JS
