@@ -12,19 +12,19 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 
 ### 21/03 - Kaue - Testing @ Google
 ### 28/03 - Holiday
-### 04/04 - Available
+### 04/04 - Andressa Costa - (undefined)
 ### 11/04 - Guilherme Quental - CoffeeScript
 ### 18/04 - Vinícius Krolow, Lucas Teixeira - Design Patterns
 ### 25/04 - Matheus Prestes - Empreendedorismo
 ### 02/05 - Moacir Rosa - Git, Forget SVN
 ### 09/05 - Gabriel Neutzling, Luã Oliveira - Responsive Design
-### 16/05 - Available
-### 23/05 - Vinícius Krolow - Vagrant
+### 16/05 - Davi Reinki - Graphos
+### 23/05 - Gustavo Graña - (undefined)
 ### 30/05 - Pedro F Steimbruch - a escolher
 ### 06/06 - Guilherme Quental - TDD/BDD JS
 ### 13/06 - Renan Rangel - a escolher
 ### 20/06 - Lucas Teixeira - MessagePack
-### 27/06 - Available
+### 27/06 - Vinícius Krolow - Vagrant
 
 
 ## HackThursday Season 2 - 22/08 ~ 28/11
