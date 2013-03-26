@@ -10,29 +10,29 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 
 ## HackThursday Season 2 - 21/03 ~ 27/06
 
-### 21/03 - Kaue - Testing @ Google
+### 21/03 - Kaue - Testing (@Google)
 ### 28/03 - Holiday
-### 04/04 - Andressa Costa - (undefined)
-### 11/04 - Guilherme Quental - CoffeeScript
-### 18/04 - Vinícius Krolow, Lucas Teixeira - Design Patterns
-### 25/04 - Matheus Prestes - Empreendedorismo
-### 02/05 - Moacir Rosa - Git, Forget SVN
-### 09/05 - Gabriel Neutzling, Luã Oliveira - Responsive Design
-### 16/05 - Davi Reinke - Graphs
-### 23/05 - Gustavo Graña - (undefined)
-### 30/05 - Pedro F Steimbruch - a escolher
-### 06/06 - Guilherme Quental - TDD/BDD JS
-### 13/06 - Renan Rangel - a escolher
-### 20/06 - Lucas Teixeira - MessagePack
-### 27/06 - Vinícius Krolow - Vagrant
+### 04/04 - Andressa Costa (Conrad Caine) - (undefined)
+### 11/04 - Guilherme Quental (Conrad Caine) - CoffeeScript
+### 18/04 - Vinícius Krolow (CakeDC), Lucas Teixeira (Conrad Caine) - Design Patterns
+### 25/04 - Matheus Prestes (W8S) - Empreendedorismo
+### 02/05 - Moacir Rosa (Conrad Caine) - Git, Forget SVN
+### 09/05 - Gabriel Neutzling (Conrad Caine), Luã Oliveira (Conrad Caine) - Responsive Design
+### 16/05 - Augustu Mecking Caringi (UFPel) - Introdução ao Framework Twisted
+### 23/05 - Gustavo Graña (Conrad Caine) - (undefined)
+### 30/05 - Pedro F Steimbruch (Conrad Caine) - a escolher
+### 06/06 - Davi Reinke (Conrad Caine) - Graphs
+### 13/06 - Renan Rangel (Conrad Caine) - a escolher
+### 20/06 - Lucas Teixeira (Conrad Caine) - MessagePack
+### 27/06 - Augustu Mecking Caringi (UFPel) - Chromium browser internals
 
 
 ## HackThursday Season 2 - 22/08 ~ 28/11
 
-### 22/08 - Moacir Rosa - Git, Workflow
-### 29/08 - Available
-### 05/09 - Available
-### 12/09 - Available
+### 22/08 - Available
+### 29/08 - Moacir Rosa (Conrad Caine) - Git, Workflow
+### 05/09 - Guilherme Quental (Conrad Caine) - TDD/BDD JS
+### 12/09 - Vinícius Krolow (CakeDC) - Vagrant
 ### 19/09 - Available
 ### 26/09 - Available
 ### 03/10 - Available
