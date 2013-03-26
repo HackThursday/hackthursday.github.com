@@ -16,7 +16,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 11/04 - Guilherme Quental - CoffeeScript
 ### 18/04 - Vinícius Krolow, Lucas Teixeira - Design Patterns
 ### 25/04 - Matheus Prestes - Empreendedorismo
-### 02/05 - Moacir Rosa - Git, Workflow
+### 02/05 - Moacir Rosa - Git, Forget SVN
 ### 09/05 - Gabriel Neutzling, Luã Oliveira - Responsive Design
 ### 16/05 - Available
 ### 23/05 - Vinícius Krolow - Vagrant
