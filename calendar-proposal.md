@@ -20,7 +20,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 09/05 - Gabriel Neutzling, Luã Oliveira - Responsive Design
 ### 16/05 - Available
 ### 23/05 - Vinícius Krolow - Vagrant
-### 30/05 - Available
+### 30/05 - Pedro F Steimbruch - a escolher
 ### 06/06 - Guilherme Quental - TDD/BDD JS
 ### 13/06 - Renan Rangel - a escolher
 ### 20/06 - Lucas Teixeira - MessagePack
