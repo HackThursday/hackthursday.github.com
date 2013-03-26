@@ -23,7 +23,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 30/05 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
 ### 06/06 - [Davi Reinke](http://github.com/dreinke) (Conrad Caine) - Graphs
 ### 13/06 - [Renan Rangel](http://github.com/rvrangel) (Conrad Caine) - a escolher
-### 20/06 - [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - MessagePack
+### 20/06 - Available
 ### 27/06 - Augustu Mecking Caringi (UFPel) - Chromium browser internals
 
 
@@ -33,7 +33,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 29/08 - [Moacir Rosa](http://github.com/moacirosa) (Conrad Caine) - Git, Workflow
 ### 05/09 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - TDD/BDD JS
 ### 12/09 - [Vinícius Krolow](http://github.com/krolow) (CakeDC) - Vagrant
-### 19/09 - Available
+### 19/09 - [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - MessagePack
 ### 26/09 - Available
 ### 03/10 - Available
 ### 10/10 - Available
