@@ -20,7 +20,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 09/05 - [Gabriel Neutzling](https://github.com/gneutzling) (Conrad Caine), Luã Oliveira (Conrad Caine) - Responsive Design
 ### 16/05 - [Augusto Caringi](https://github.com/caringi) (UFPel) - Introdução ao Framework Twisted
 ### 23/05 - [Gustavo Graña](http://github.com/ggrana) (Conrad Caine) - (undefined)
-### 30/05 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
+### 30/05 - André Du Bois (UFPel) - a escolher
 ### 06/06 - [Davi Reinke](http://github.com/dreinke) (Conrad Caine) - Graphs
 ### 13/06 - [Renan Rangel](http://github.com/rvrangel) (Conrad Caine) - a escolher
 ### 20/06 - [Italo Fick de Oliveira](https://github.com/italooliveira) (Voiza) - Agile
@@ -35,7 +35,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 12/09 - [Vinícius Krolow](http://github.com/krolow) (CakeDC) - Vagrant
 ### 19/09 - [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - MessagePack
 ### 26/09 - [Rafael Silva](http://github.com/rssilva) (Grupo RBS) - a escolher
-### 03/10 - Available
+### 03/10 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
 ### 10/10 - Available
 ### 17/10 - Available
 ### 24/10 - Available
