@@ -33,14 +33,14 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 29/08 - [Moacir Rosa](http://github.com/moacirosa) (Conrad Caine) - Git, Workflow
 ### 05/09 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - TDD/BDD JS
 ### 12/09 - [Vinícius Krolow](http://github.com/krolow) (CakeDC) - Vagrant
-### 19/09 - [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - MessagePack
+### 19/09 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
 ### 26/09 - [Rafael Silva](http://github.com/rssilva) (Grupo RBS) - a escolher
-### 03/10 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
+### 03/10 - Available
 ### 10/10 - Available
 ### 17/10 - Available
 ### 24/10 - Available
 ### 31/10 - Available
 ### 07/11 - Available
 ### 14/11 - Available
-### 21/11 - Available
+### 21/11 - [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - MessagePack
 ### 28/11 - Available
