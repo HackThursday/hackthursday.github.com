@@ -12,7 +12,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 
 ### 21/03 - Kaue - Testing (@Google)
 ### 28/03 - Holiday
-### 04/04 - [Andressa Costa](http://github.com/andressacosta) (Conrad Caine) - (undefined)
+### 04/04 - [Andressa Costa](http://github.com/andressacosta) (Conrad Caine) - CSS: Performance e outras injustiças
 ### 11/04 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - CoffeeScript
 ### 18/04 - [Vinícius Krolow](http://github.com/krolow) (CakeDC), [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - Design Patterns
 ### 25/04 - Matheus Prestes (W8S) - Empreendedorismo
