@@ -18,13 +18,13 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 25/04 - Matheus Prestes (W8S) - Empreendedorismo
 ### 02/05 - [Moacir Rosa](http://github.com/moacirosa)  (Conrad Caine) - Git, Forget SVN
 ### 09/05 - [Gabriel Neutzling](https://github.com/gneutzling) (Conrad Caine), Luã Oliveira (Conrad Caine) - Responsive Design
-### 16/05 - Augusto Mecking Caringi (UFPel) - Introdução ao Framework Twisted
+### 16/05 - [Augusto Caringi](https://github.com/caringi) (UFPel) - Introdução ao Framework Twisted
 ### 23/05 - [Gustavo Graña](http://github.com/ggrana) (Conrad Caine) - (undefined)
 ### 30/05 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
 ### 06/06 - [Davi Reinke](http://github.com/dreinke) (Conrad Caine) - Graphs
 ### 13/06 - [Renan Rangel](http://github.com/rvrangel) (Conrad Caine) - a escolher
 ### 20/06 - Available
-### 27/06 - Augusto Mecking Caringi (UFPel) - Chromium browser internals
+### 27/06 - [Augusto Caringi](https://github.com/caringi) (UFPel) - Chromium browser internals
 
 
 ## HackThursday Season 2 - 22/08 ~ 28/11
