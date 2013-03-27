@@ -6,7 +6,7 @@ potenciais interessados em uma data conflitante.
 
 P.S. Dêem uma certa atenção aos potenciais feriados nas datas citadas abaixo pra que possamos já alinhar o calendário
 
-$ O Djonatan me orientou que palestranta não é um termo adequado e de que deveríamos chamar de outra coisa
+$ O Djonatan me orientou que palestrante não é um termo adequado e de que deveríamos chamar de outra coisa
 
 ## HackThursday Season 2 - 21/03 ~ 27/06
 
@@ -27,7 +27,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 27/06 - [Augusto Caringi](https://github.com/caringi) (UFPel) - Chromium browser internals
 
 
-## HackThursday Season 2 - 22/08 ~ 28/11
+## HackThursday Season 3 - 22/08 ~ 28/11
 
 ### 22/08 - [Andrei Silva](https://github.com/andreissf) (Conrad Caine) - Dos primórdios até hoje: Desenvolvimento Windows
 ### 29/08 - [Moacir Rosa](http://github.com/moacirosa) (Conrad Caine) - Git, Workflow
