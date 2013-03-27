@@ -23,7 +23,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 30/05 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
 ### 06/06 - [Davi Reinke](http://github.com/dreinke) (Conrad Caine) - Graphs
 ### 13/06 - [Renan Rangel](http://github.com/rvrangel) (Conrad Caine) - a escolher
-### 20/06 - Italo Fick de Oliveira (Voiza) - Agile
+### 20/06 - [Italo Fick de Oliveira](https://github.com/italooliveira) (Voiza) - Agile
 ### 27/06 - [Augusto Caringi](https://github.com/caringi) (UFPel) - Chromium browser internals
 
 
