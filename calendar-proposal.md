@@ -29,7 +29,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 
 ## HackThursday Season 2 - 22/08 ~ 28/11
 
-### 22/08 - Andrei Silva (Conrad Caine) - Dos primórdios até hoje: Desenvolvimento Windows
+### 22/08 - [Andrei Silva](https://github.com/andreissf) (Conrad Caine) - Dos primórdios até hoje: Desenvolvimento Windows
 ### 29/08 - [Moacir Rosa](http://github.com/moacirosa) (Conrad Caine) - Git, Workflow
 ### 05/09 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - TDD/BDD JS
 ### 12/09 - [Vinícius Krolow](http://github.com/krolow) (CakeDC) - Vagrant
