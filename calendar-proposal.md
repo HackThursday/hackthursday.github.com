@@ -34,7 +34,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 ### 05/09 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - TDD/BDD JS
 ### 12/09 - [Vinícius Krolow](http://github.com/krolow) (CakeDC) - Vagrant
 ### 19/09 - [Lucas Teixeira](http://github.com/loteixeira) (Conrad Caine) - MessagePack
-### 26/09 - Available
+### 26/09 - [Rafael Silva](http://github.com/rssilva) (Grupo RBS) - a escolher
 ### 03/10 - Available
 ### 10/10 - Available
 ### 17/10 - Available
