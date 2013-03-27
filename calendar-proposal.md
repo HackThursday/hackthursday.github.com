@@ -10,7 +10,7 @@ $ O Djonatan me orientou que palestranta não é um termo adequado e de que deve
 
 ## HackThursday Season 2 - 21/03 ~ 27/06
 
-### 21/03 - Kaue - Testing (@Google)
+### 21/03 - Kauê da Silveira (Google) - Testing @ Google
 ### 28/03 - Holiday
 ### 04/04 - [Andressa Costa](http://github.com/andressacosta) (Conrad Caine) - CSS: Performance e outras injustiças
 ### 11/04 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - CoffeeScript
