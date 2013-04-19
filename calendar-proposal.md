@@ -32,7 +32,7 @@ $ O Djonatan me orientou que palestrante não é um termo adequado e de que deve
 ### 22/08 - [Andrei Silva](https://github.com/andreissf) (Conrad Caine) - Dos primórdios até hoje: Desenvolvimento Windows
 ### 29/08 - [Moacir Rosa](http://github.com/moacirosa) (Conrad Caine) - Git, Workflow
 ### 05/09 - [Guilherme Quental](http://github.com/gquental) (Conrad Caine) - TDD/BDD JS
-### 12/09 - [Vinícius Krolow](http://github.com/krolow) (CakeDC) - Vagrant
+### 12/09 - Available
 ### 19/09 - [Pedro F Steimbruch](https://github.com/pedrofs) (Conrad Caine) - a escolher
 ### 26/09 - [Rafael Silva](http://github.com/rssilva) (Grupo RBS) - a escolher
 ### 03/10 - Available
